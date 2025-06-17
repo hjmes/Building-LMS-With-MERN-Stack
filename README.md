@@ -148,12 +148,3 @@ These small steps make a big difference.
 ## Conclusion: Your LMS Awaits
 
 Building an LMS with MERN stack is like planting a seed for a thriving online school. You’ve got the tools, the plan, and the passion to create something amazing. Start small with a basic version, then add features as you grow. The world needs more ways to learn, and your LMS could change lives. So, what are you waiting for? Grab your laptop, follow this guide, and build an LMS that makes learning fun, easy, and accessible. Share your progress with the community—your journey might inspire others!
-
-**Word Count**: 910
-
-**Resources**:
-
-- MongoDB Docs
-- React Tutorial
-- Google Search Console
-- Join MERN stack communities on Reddit or Stack Overflow.
